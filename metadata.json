@@ -1,0 +1,5 @@
+{
+  "name": "Python PDF Scraper Generator",
+  "description": "A tool that generates a customized Python script to scrape and download PDFs from any website.",
+  "requestFramePermissions": []
+}
